@@ -18,6 +18,7 @@
 # Optional: <custom_script> is for custom handlers. Default script is Google Drive (google-drive).
 # (right now, you shouldn't have to use that at all in 99% of cases)
 
+
 # proxy/<custom_script>:<url> is particularly useful if you have a front page you want to show
 # instead of your drive folder (i.e. spreadsheet, website...).
 
@@ -55,6 +56,7 @@ DigitalSquirrel's charts :: https://drive.google.com/drive/folders/0B2cTDJt4RaSh
 Dillski's charts :: https://drive.google.com/drive/folders/0Bzm5KFgFuIEocmoxVElkS3dhUGs
 Doodled's charts :: https://drive.google.com/drive/folders/1jm700XG3aqecmdLUU211rhiNpQKUGRqT
 Duknine2's charts : https://drive.google.com/drive/folders/1JZu0Pn4eiraYTi5f0lnEGpufMdSXwCDc
+EdgyDabs' charts:: https://drive.google.com/drive/folders/1nZWnS2Du1I0upCrXbkuRQBwh3V0OCVrk
 Expertwin's (a.k.a. ataeaf's) charts :: https://drive.google.com/drive/folders/1-c-n1w19RzPwesGTJdCj02KtR7j9QCYB
 Enkidu+'s charts :: https://drive.google.com/drive/folders/1im9FiXTKHbENw9eOquopoqbxa17e-Qaw
 Ent!ty's charts :: https://drive.google.com/drive/folders/0B7DAknKs0_efd3k5TVVHQ2JRQ3c
